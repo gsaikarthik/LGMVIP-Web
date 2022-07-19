@@ -1,0 +1,10 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: blue;
+	color: yellow;
+}
+
+#show th, #show td{
+	padding: 10px;
+}
